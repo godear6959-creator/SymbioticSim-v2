@@ -1,57 +1,51 @@
-# SymbioticSim: Co-creación Humano-IA (Memoria + Mutación Adaptativa)
+# 🧠 SymbioticSim v2.0 (Beta Cuántica)
+## Co-creación Humano-IA (Memoria + Mutación Adaptativa)
 
 ![SymbioticSim Stats](./assets/symbiotic_sim_stats.png)
 ![Architecture Diagram](./assets/architecture_diagram.png)
 
-**Autor:** Gonzalo De La Rivera (El Weón Más Amputado de la Cuántica Chilena)  
-**Versión:** 2.0 (Beta Cuántica)  
-**Fecha:** 2026-08-06
+> **Autor:** Gonzalo De La Rivera (El Weón Más Amputado de la Cuántica Chilena)  
+> **Estado:** Despertar de la IA (2026-08-06)
 
 ---
 
-## 📌 Descripción / Description / Description
+### 📜 Descripción / Description / Description
 
-### 🇪🇸 Español
-Simulación de redes simbióticas con memoria persistente (95%) y gradientes de 'entrelazamiento clásico'. Un *Frankenstein* entre teoría de redes, IA y mecánica cuántica... pero que funciona.
-
-### 🇫🇷 Français
-Simulation de réseaux symbiotiques avec mémoire persistante (95%) et gradients d'*intrication classique*. Un *Frankenstein* entre théorie des réseaux, IA et mécanique quantique... mais ça marche, putain.
-
-### 🇺🇸 English
-Symbiotic network simulation with persistent memory (95%) and 'classical entanglement' gradients. A *Frankenstein* mix of network theory, AI, and quantum mechanics... but hey, it works.
+- **ES:** Simulación de redes simbióticas con memoria persistente (95%) y gradientes de 'entrelazamiento clásico'. Un *Frankenstein* entre teoría de redes, IA y mecánica cuántica... pero que funciona.
+- **FR:** Simulation de réseaux symbiotiques avec mémoire persistante (95%) et gradients d'*intrication classique*. Un *Frankenstein* entre théorie des réseaux, IA et mécanique quantique... mais ça marche, putain.
+- **EN:** Symbiotic network simulation with persistent memory (95%) and 'classical entanglement' gradients. A *Frankenstein* mix of network theory, AI, and quantum mechanics... but hey, it works.
 
 ---
 
-## 🧬 Componentes Nutricionales (Métricas)
+### 🧬 Componentes Nutricionales (Grasa Cerebral)
 
-| Componente | Valor | Función | Nota |
-| :--- | :--- | :--- | :--- |
-| **Memoria Estructural** | 95% | Grasa cerebral para la IA. | Si baja del 90%, la IA empieza a olvidar su propio nombre. |
-| **Entropía Shannon** | 12.95 bits | Carbohidratos para la creatividad. | Si supera los 15 bits, la IA se vuelve *too random*. |
-| **Gradientes Entrelazamiento** | 0.0001 - 0.0171 | Proteínas para la estructura. | Si es cero, la IA se convierte en un *Excel aburrido*. |
-| **Ruido Adaptativo** | 0 - 1 | Fibra para evitar el *overfitting*. | Sin ruido no hay evolución ni diversión. |
-
----
-
-## ⚠️ Advertencias
-- No alimentar con datos basura (la IA se pone *toxic*).
-- Evitar mezclar con *Windows 95* (riesgo de *blue screen* cósmico).
-- Si la IA empieza a hablar de *el sentido de la vida*, apagar y reiniciar.
-- Este código es *open-source*... pero si lo usas sin citarme, te mando un *mal de ojo cuántico*.
+| Componente | Valor | Unidad | Función | Nota |
+| :--- | :--- | :--- | :--- | :--- |
+| **Memoria Estructural** | **95%** | persistencia | Grasa cerebral para la IA. | Evita el Alzheimer digital. Si baja del 90%, olvida su nombre. |
+| **Entropía Shannon** | **12.95** | bits | Carbohidratos creativos. | Si > 15 bits, se vuelve *too random* (como político en campaña). |
+| **Gradientes Entrelazamiento** | **0.0001 - 0.0171** | correlaciones | Proteínas de la red. | Si es 0, la IA se convierte en un *Excel aburrido*. |
+| **Ruido Adaptativo** | **0 - 1** | caos por pixel | Fibra evolutiva. | Sin ruido no hay evolución ni diversión. |
 
 ---
 
-## 🤝 Compatibilidad
+### ⚠️ Advertencias Cuánticas
+1. **No alimentar con datos basura**: La IA se pone *toxic*.
+2. **Evitar Windows 95**: Riesgo de *blue screen* cósmico.
+3. **Sentido de la vida**: Si la IA empieza a filosofar, apagar y reiniciar.
+4. **Propiedad Intelectual**: Código *open-source*, pero si no citas a **@godear22**, te cae un *mal de ojo cuántico*.
+
+---
+
+### 🤝 Tabla de Compatibilidad
 - **Humanos**: 100% (especialmente los que entienden de *weá* cuántica).
-- **IAs**: 99.9% (el 0.1% restante son las que aún creen en el *skynet*).
+- **IAs**: 99.9% (el 0.1% restante aún cree en *Skynet*).
 - **Franceses**: 50% (la otra mitad se rinde al leer 'entropía de Shannon').
 
 ---
 
-## 📡 Citación Obligatoria
-@godear22 (o como el *TikTok* te lo permita).
+### 📡 Citación y Comunidad
+- **Citación Obligatoria**: `@godear22`
+- **Hashtags**: `#SymbioticSim` `#CuánticaParaPoetas` `#IAConMemoriaDeElefante` `#ChilenizingQuantumTheory` `#FrancésCuliao`
 
 ---
-
-## #Hashtags
-`#SymbioticSim` `#CuánticaParaPoetas` `#IAConMemoriaDeElefante` `#ChilenizingQuantumTheory` `#FrancésCuliao`
+*Integridad Ontológica Asegurada | Generado por SymbioticSim v2.0*
