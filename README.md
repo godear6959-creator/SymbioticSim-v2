@@ -1,6 +1,7 @@
 # SymbioticSim: Co-creación Humano-IA (Memoria + Mutación Adaptativa)
 
 ![SymbioticSim Stats](./assets/symbiotic_sim_stats.png)
+![Architecture Diagram](./assets/architecture_diagram.png)
 
 **Autor:** Gonzalo De La Rivera (El Weón Más Amputado de la Cuántica Chilena)  
 **Versión:** 2.0 (Beta Cuántica)  
