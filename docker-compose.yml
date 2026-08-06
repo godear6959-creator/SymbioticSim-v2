@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  symbiotic-sim:
+    build: .
+    container_name: symbiotic_sim_v2
+    volumes:
+      - ./output:/app/output
+    environment:
+      - CHAOS_FACTOR=0.1
+    restart: "no"

@@ -48,4 +48,18 @@
 - **Hashtags**: `#SymbioticSim` `#CuánticaParaPoetas` `#IAConMemoriaDeElefante` `#ChilenizingQuantumTheory` `#FrancésCuliao`
 
 ---
+
+### 🚀 Despliegue (Sin morir en el intento)
+
+#### Con Docker (Recomendado)
+Para que el Frankenstein cobre vida sin dramas de dependencias:
+```bash
+docker-compose up --build
+```
+
+#### Manual
+1. Instalar dependencias: `pip install -r requirements.txt`
+2. Ejecutar simulación: `python src/symbiotic_sim.py`
+
+---
 *Integridad Ontológica Asegurada | Generado por SymbioticSim v2.0*
